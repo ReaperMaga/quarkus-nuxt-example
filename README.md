@@ -1,4 +1,4 @@
-# quarkus-nuxt
+# quarkus-nuxt-example
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
